@@ -8,6 +8,7 @@
 # 高德key申请方式🎟： 
   在高德开放平台注册个人开发者，然后创建应用并绑定web服务，然后申请一个key
   
+![avatar](https://raw.githubusercontent.com/dogexu/imagebed/master/gaodekey.png)  
 ----
 # 依赖🎭：
     exifread库
